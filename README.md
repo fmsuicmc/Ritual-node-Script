@@ -159,3 +159,5 @@ rm -rf ~/infernet-container-starter
 
 ## Disclaimer
 This script is provided as-is, best-effort. Always double-check the addresses and values you write on-chain.
+
+by fmusicmc
